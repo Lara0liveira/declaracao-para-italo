@@ -1,5 +1,4 @@
 
-```python
 class Namorado:
     def __init__(self):
         self.nome = "Italo"
@@ -18,4 +17,3 @@ class Namorado:
 
 meu_namorado = Namorado()
 meu_namorado.declarar()
-```
